@@ -1,0 +1,165 @@
+.right
+{
+    margin-left: 350px;
+    padding: inherit;
+}
+
+.right li
+{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 8px;
+}
+.navbar
+{
+    margin-bottom: 0;
+}
+.first
+{
+   background: rgba(0,0,0,0.1)
+}
+
+.first h1,p
+{
+    text-align: center;
+}
+
+@media (max-width:1080px)
+{
+    .right
+    {
+        margin: 0;
+    }
+}
+
+
+@media (max-width:800px)
+{
+    .navbar-right
+    {
+        display: none;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+.fb
+{   
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: #3B5998;
+    text-align: center;
+    border-radius: 50%;
+    font-weight: 900;
+    font-size: 25px;
+    margin: 10px;
+}
+.fb a
+{
+    color: white;
+}
+
+.tw
+{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: #00C6FF;
+    text-align: center;
+    border-radius: 50%;
+    font-weight: 900;
+    color: white;
+    font-size: 25px;
+    margin:10px;
+}
+.tw a
+{
+    color: white;
+}
+
+.ins
+{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: #c32aa3;
+    text-align: center;
+    border-radius: 50%;
+    font-weight: 900;
+    font-size: 25px;
+    margin: 10px;
+}
+.ins a
+{
+    color: white;
+}
+
+.ln 
+{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: #007bb5;
+    text-align: center;
+    border-radius: 50%;
+    font-weight: 900;
+    font-size: 25px;
+    margin: 10px;
+    
+}
+.ln a
+{
+    color: white;
+}
+
+.fb:hover
+{
+    background: rgba( 59, 89, 152,0.9);
+    transform: scale(1.1);
+}
+.ln:hover
+{
+    background: rgba( 0, 119, 181,0.9);
+    transform: scale(1.1);
+}
+.tw:hover
+{
+    background: rgba( 29, 161, 242,0.9);
+    transform: scale(1.1);  
+}
+.ins:hover
+{
+    background: rgba( 195, 42, 163,0.9);
+    transform: scale(1.1);
+}
+
+/* new icon code*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
